@@ -74,7 +74,7 @@ You'll need a reliable and feature rich text editor / IDE to write your code:
 
 ###### Linux on Windows
 
-The latest Windows 10 versions support a Ubuntu Linux subsystem. If you are more comfortable with a Unix-like shell, this may help speed up your development within Windows:
+The latest Windows 10 versions supports an Ubuntu Linux subsystem. If you are more comfortable with a Unix-like shell, this may help speed up your development within Windows:
 
 -   [Ubuntu subsystem](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0) (recommended)
 -   [Git for Windows](https://gitforwindows.org/)
@@ -119,7 +119,7 @@ When working with Git, don't forget to:
 -   Write or adapt tests as needed
 -   Add or change the documentation as needed
 
-_Important Note:_ we recommend you clone or download the repositories and create a private origin for the duration of the challenge, so there is no risk of your code being plagerised (!).
+_Important Note:_ we recommend you clone or download the repositories and create a private origin for the duration of the challenge, so there is no risk of your code being plagiarised (!).
 
 ### Submit Your Hack
 
